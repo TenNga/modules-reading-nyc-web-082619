@@ -1,3 +1,5 @@
 module MetaDancing
   
-  def meta
+  def metadata 
+    
+  end

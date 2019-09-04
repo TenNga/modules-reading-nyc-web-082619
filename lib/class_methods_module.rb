@@ -1,6 +1,6 @@
 module MetaDancing
   
   def metadata 
-    "This "
+    "This class produce object "
   end
 end

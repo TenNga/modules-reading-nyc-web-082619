@@ -1,4 +1,4 @@
-require_relative './fancy_dance.rb.rb'
+require_relative './fancy_dance.rb'
 module MetaDancing
   
    extend FancyDance::ClassMethods
